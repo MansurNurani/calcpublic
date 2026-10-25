@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@layer base {
+  *, ::before, ::after {
+    font-family: 'Vazirmatn', system-ui, -apple-system, sans-serif !important;
+  }
+}
+
+body {
+  font-family: 'Vazirmatn', system-ui, -apple-system, sans-serif;
+  direction: rtl;
+}
+
